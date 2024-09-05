@@ -3,9 +3,10 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: #fff;
   color: #2e2f42;
+  font-style: normal;
 }
-a,
 ul,
-ol {
+ol,
+a {
   list-style-type: none;
 }
