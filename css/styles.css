@@ -1,12 +1,18 @@
 /* global styles */
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", "Raleway", sans-serif;
   background-color: #fff;
   color: #2e2f42;
   font-style: normal;
 }
 ul,
-ol,
-a {
+ol {
   list-style-type: none;
 }
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* header styles */
