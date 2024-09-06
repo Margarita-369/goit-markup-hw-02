@@ -79,6 +79,11 @@ button {
   color: #fff;
 }
 
+button:hover,
+button:focus {
+  background-color: #404bbf;
+}
+
 .photo-board {
   background: #f4f4fd;
 }
@@ -101,11 +106,10 @@ h3 {
 }
 
 .team-board {
-  background: #f4f4fd;
-}
+  background-color: #f4f4fd;
 
-.team-item {
-  background: #fff;
+  .team-item {
+    background-color: #fff;
 }
 
 .team-member {
@@ -126,9 +130,7 @@ h3 {
 
 /* footer styles */
 
-.page-footer {
-  background: #2e2f42;
-}
+
 
 .footer-text {
   font-weight: 400;
