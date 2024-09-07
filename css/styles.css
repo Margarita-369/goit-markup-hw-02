@@ -35,8 +35,8 @@ a {
   color: #f4f4fd;
 }
 
-  .page-footer {
- background: #2e2f42;
+.page-footer {
+  background: #2e2f42;
 }
 
 .footer-text {
@@ -83,6 +83,7 @@ h1 {
   text-align: center;
   color: #fff;
 }
+
 button {
   background: #4d5ae5;
   font-weight: 500;
@@ -119,10 +120,11 @@ h3 {
 }
 
 .team-board {
-  background-color: #f4f4fd;
+  background: #f4f4fd;
+}
 
-  .team-item {
-    background-color: #fff;
+.team-item {
+  background-color: #fff;
 }
 
 .team-member {
