@@ -30,7 +30,20 @@ a {
 .header-logo .logo-part {
   color: #2e2f42;
 }
+
 .footer-logo .logo-part {
+  color: #f4f4fd;
+}
+
+  .page-footer {
+ background: #2e2f42;
+}
+
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #f4f4fd;
 }
 
@@ -81,7 +94,7 @@ button {
 
 button:hover,
 button:focus {
-  background-color: #404bbf;
+  background: #404bbf;
 }
 
 .photo-board {
@@ -126,16 +139,4 @@ h3 {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-/* footer styles */
-
-
-
-.footer-text {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #f4f4fd;
 }
